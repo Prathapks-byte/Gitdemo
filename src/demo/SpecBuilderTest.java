@@ -30,7 +30,7 @@ p.setWebsite("https://rahulshettyacademy.com");
 p.setName("Frontline house");
 List<String> myList =new ArrayList<String>();
 myList.add("shoe park");
-myList.add("shop");
+myList.add("mark");
 
 p.setTypes(myList);
 Location l =new Location();
